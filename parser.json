@@ -1,7 +1,7 @@
 {
+  "lang": "vrl",
+  "url": "https://github.com/belltoy/tree-sitter-vrl",
   "semver": false,
   "parser_version": "274b3ce63f72aa8ffea18e7fc280d3062d28f0ba",
-  "location": null,
-  "lang": "vrl",
-  "url": "https://github.com/belltoy/tree-sitter-vrl"
+  "location": null
 }
